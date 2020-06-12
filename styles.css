@@ -1,0 +1,283 @@
+/* Elements */
+body {
+  font-family: 'Architects Daughter';
+}
+
+h1 {
+  color: #FFFFFF;
+  text-align: center;
+  margin-top: 5%;
+  font-weight: 400;
+  font-size: 5rem;
+}
+
+h2 {
+  color: #FFFFFF;
+  text-align: center;
+  margin-top: 5%;
+  margin-bottom: 2%;
+  font-weight: 300;
+  font-size: 4rem;
+}
+
+p {
+  color: #FFFFFF;
+  text-align: center;
+  font-weight: 200;
+  font-size: 1.5rem;
+  line-height: 2rem;
+}
+
+a {
+  align-items: center;
+}
+
+/* Welcome Section */
+#welcome-container {
+  background-color: #DEDEDE;
+}
+
+/* Music Section */
+#music-container {
+  background-color: #ff2e63;
+}
+
+.musicJ {
+  color: #ff2e63;
+}
+
+/* Games Section */
+#games-container {
+  background-color: #5fdde5;
+}
+
+.gamesJ {
+  color: #5fdde5;
+}
+
+/* Cooking Section */
+#cooking-container {
+  background-color: #8cba51;
+  float: left;
+  width: 50%;
+  margin-bottom: 5%;
+}
+
+.cookingJ {
+  color: #8cba51;
+}
+
+/* Ridles Section */
+#riddles-container {
+  background-color: #ffe75e;
+  float: right;
+  width: 50%;
+  margin-bottom: 5%;
+}
+
+.riddlesJ {
+  color: #ffe75e;
+}
+
+/* Netflix Section */
+#netflix-container {
+  background-color: #fa163f;
+}
+
+.netflixJ {
+  color: #fa163f;
+}
+
+/* Shows Section */
+#shows-container {
+  background-color: #fc7e2f;
+}
+
+.showsJ {
+  color: #fc7e2f;
+}
+
+.cicon {
+  background-color: #555;
+}
+
+.other-shows-arrowL {
+  margin-left: -10%;
+}
+
+.other-shows-arrowR {
+  margin-right: -10%;
+}
+
+/* Chat Section */
+#chat-container {
+  background-color: #1f4068;
+}
+
+.chatJ {
+  display: block;
+  text-align: center;
+  margin-top: 5%;
+  color: #1f4068;
+  width: 162px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.iconC {
+  margin-left: 5%;
+  margin-top: 10%;
+  margin-bottom: 10%;
+  color: inherit;
+}
+
+.chat {
+  padding: 5% 15%;
+}
+
+.right-arrow {
+  float: right;
+  font-size: 5rem;
+  margin: 5%;
+}
+
+/* Sub Contaner */
+.sub-container-chat {
+  padding: 5%;
+}
+
+.sub-container h2 {
+  color: black;
+  background-color: white;
+  font-weight: 300;
+}
+
+.sub-container p {
+  color: black;
+  background-color: white;
+  font-weight: 200;
+  margin-top: 5%;
+}
+
+.sub-container img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Random Meal CSS */
+@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+li {
+  margin-bottom: 0;
+}
+
+.WholeRecrow {
+  text-align: center;
+}
+
+.recBtn {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.mealImg {
+  width: 85%;
+  height: 350px;
+}
+
+.mealIng h5 {
+  margin: 10px 0;
+}
+
+.aboutRec {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.meal {
+  margin: 20px 0;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.Recrow {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.videoWrapper {
+  position: relative;
+  padding-bottom: 56.25%;
+  padding-top: 25px;
+  height: 300px;
+  width: 500px;
+}
+
+.videoWrapper iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+/* All Sections */
+.container-fluid {
+  padding: 3% 15% 12%;
+  box-shadow: 10px 0px 20px black;
+}
+
+.section-arrow {
+  margin-left: 5%;
+}
+
+.jump {
+  display: block;
+  text-align: center;
+  font-weight: 200;
+  font-size: 1.5rem;
+  line-height: 2rem;
+  color: inherit;
+}
+
+.iconS {
+  margin-left: 30%;
+  margin-top: 10%;
+  margin-bottom: 10%;
+  color: inherit;
+}
+
+.select {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  width: 261px;
+}
+
+/* Media Querys */
+@media only screen and (max-width: 720px) {
+  #cooking-container {
+    background-color: #8cba51;
+    width: 100%;
+    margin-bottom: 0;
+  }
+
+  /* Ridles Section */
+  #riddles-container {
+    background-color: #ffe75e;
+    width: 100%;
+  }
+
+  /* Chat Section */
+}
