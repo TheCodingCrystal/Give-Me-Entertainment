@@ -6,6 +6,7 @@ Boredom can be a major issue, especially during quarantine. *Give Me Entertainme
 - [List of sections](https://github.com/TheCodingCrystal/Give-Me-Entertainment#list-of-sections)
 - [Code](https://github.com/TheCodingCrystal/Give-Me-Entertainment#code)
 - [Screenshots](https://github.com/TheCodingCrystal/Give-Me-Entertainment#screenshots)
+- [Additional Notes](https://github.com/TheCodingCrystal/Give-Me-Entertainment#additional-notes)
 - [Framework](https://github.com/TheCodingCrystal/Give-Me-Entertainment#framework)
 - [Credits](https://github.com/TheCodingCrystal/Give-Me-Entertainment#credits)
 - [Contact me about this project](https://github.com/TheCodingCrystal/Give-Me-Entertainment#contact-me-about-this-project)
@@ -56,6 +57,10 @@ This is what the music section looks like. All of the other sections are similar
 ![image](https://user-images.githubusercontent.com/50976601/84556597-a019f780-ad1b-11ea-9b6d-737e6636ef25.png)
 
 At the bottom, there is a section for if a user would like to contact me.
+
+#### Additional Notes
+- Make sure ad blocker is turned off.
+  - In order to play games in the games section, ad blocker must be turned off.
 
 ### Framework
 I used [Atom](https://atom.io/), a text editor, to develop my website.
