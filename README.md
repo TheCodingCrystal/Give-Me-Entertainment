@@ -3,11 +3,11 @@ Boredom can be a major issue, especially during quarantine. *Give Me Entertainme
 
 ## Contents
 - [Motivation](https://github.com/TheCodingCrystal/Give-Me-Entertainment#motivation)
+- [List of sections](https://github.com/TheCodingCrystal/Give-Me-Entertainment#list-of-sections)
 - [Code](https://github.com/TheCodingCrystal/Give-Me-Entertainment#code)
 - [Screenshots](https://github.com/TheCodingCrystal/Give-Me-Entertainment#screenshots)
-- [Frameworks](https://github.com/TheCodingCrystal/Give-Me-Entertainment#frameworks)
+- [Framework](https://github.com/TheCodingCrystal/Give-Me-Entertainment#framework)
 - [Credits](https://github.com/TheCodingCrystal/Give-Me-Entertainment#credits)
-- [List of sections](https://github.com/TheCodingCrystal/Give-Me-Entertainment#list-of-sections)
 
 ### Motivation
 During quarantine, many people have found themselves bored. In order to keep a level of enthusiasm, I wanted to make a website with multiple tasks for people to do, as well as recommending new things to try out. :smile:
@@ -53,8 +53,8 @@ This is what the music section looks like. All of the other sections are similar
 
 At the bottom, there is a section for if a user would like to contact me.
 
-### Framework used
-I used Atom, a text editor, to develop my website.
+### Framework
+I used [Atom](https://atom.io/), a text editor, to develop my website.
 
 Programming languages include:
 - HTML
