@@ -36,7 +36,7 @@ In this website, there are different sections for each category. These include:
 - [Check out the JavaScript](index.js)
 
 ### Logo
-
+![image](https://user-images.githubusercontent.com/50976601/84558217-13763600-ad29-11ea-9295-7824d3898bac.png)
 
 ### Screenshots
 ![image](https://user-images.githubusercontent.com/50976601/84556383-4d8c0b80-ad1a-11ea-9b6f-a1abf6aacf77.png)
