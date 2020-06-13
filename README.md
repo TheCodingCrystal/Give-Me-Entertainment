@@ -8,6 +8,7 @@ Boredom can be a major issue, especially during quarantine. *Give Me Entertainme
 - [Screenshots](https://github.com/TheCodingCrystal/Give-Me-Entertainment#screenshots)
 - [Framework](https://github.com/TheCodingCrystal/Give-Me-Entertainment#framework)
 - [Credits](https://github.com/TheCodingCrystal/Give-Me-Entertainment#credits)
+- [Contact me about this project](https://github.com/TheCodingCrystal/Give-Me-Entertainment#contact-me-about-this-project)
 
 ### Motivation
 During quarantine, many people have found themselves bored. In order to keep a level of enthusiasm, I wanted to make a website with multiple tasks for people to do, as well as recommending new things to try out. :smile:
@@ -71,3 +72,6 @@ Things/Websites that helped me make this website:
 - [Logo Maker](https://logomakr.com/)
 - Spotify, Apple Music and Deezer - embeded playlists
 - Youtube - embeded youtube videos
+
+### Contact me about this project
+If you want to contact me about this project, email givemeentertainment@yahoo.com
