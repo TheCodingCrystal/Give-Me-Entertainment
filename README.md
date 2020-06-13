@@ -58,7 +58,7 @@ This is what the music section looks like. All of the other sections are similar
 
 At the bottom, there is a section for if a user would like to contact me.
 
-#### Additional Notes
+### Additional Notes
 - Make sure ad blocker is turned off.
   - In order to play games in the games section, ad blocker must be turned off.
 
