@@ -18,7 +18,7 @@ In this website, there are different sections for each category. These include:
 - Music
   - In this section, the top tracks from Spotify, Apple Music and Deezer are listed
 - Games
-  - In this section, you can play a game embeded from Wanted5Games
+  - In this section, you can play a game embedded from Wanted5Games
 - Cooking
   - In this section, you can press a button to get a random recipe
 - Puzzle/Riddle
@@ -34,6 +34,9 @@ In this website, there are different sections for each category. These include:
 - [Check out the HTML](index.html)
 - [Check out the CSS](styles.css)
 - [Check out the JavaScript](index.js)
+
+### Logo
+
 
 ### Screenshots
 ![image](https://user-images.githubusercontent.com/50976601/84556383-4d8c0b80-ad1a-11ea-9b6f-a1abf6aacf77.png)
@@ -70,8 +73,8 @@ Things/Websites that helped me make this website:
 - [Icons](https://fontawesome.com/)
 - [Bootsrap](https://getbootstrap.com/)
 - [Logo Maker](https://logomakr.com/)
-- Spotify, Apple Music and Deezer - embeded playlists
-- Youtube - embeded youtube videos
+- Spotify, Apple Music and Deezer - embedded playlists
+- Youtube - embedded youtube videos
 
 ### Contact me about this project
 If you want to contact me about this project, email givemeentertainment@yahoo.com
