@@ -7,9 +7,27 @@ Boredom can be a major issue, especially during quarantine. *Give Me Entertainme
 - [Screenshots](https://github.com/TheCodingCrystal/Give-Me-Entertainment#screenshots)
 - [Frameworks](https://github.com/TheCodingCrystal/Give-Me-Entertainment#frameworks)
 - [Credits](https://github.com/TheCodingCrystal/Give-Me-Entertainment#credits)
+- [List of sections](https://github.com/TheCodingCrystal/Give-Me-Entertainment#list-of-sections)
 
 ### Motivation
 During quarantine, many people have found themselves bored. In order to keep a level of enthusiasm, I wanted to make a website with multiple tasks for people to do, as well as recommending new things to try out. :smile:
+
+### List of sections
+In this website, there are different sections for each category. These include:
+- Music
+  - In this section, the top tracks from Spotify, Apple Music and Deezer are listed
+- Games
+  - In this section, you can play a game embeded from Wanted5Games
+- Cooking
+  - In this section, you can press a button to get a random recipe
+- Puzzle/Riddle
+  - In this section, you can do a puzzle (or recommend a riddle which might be added)
+- Netflix
+  - In this section, the top Netflix shows of the year are given through youtube videos
+- Other Shows
+  - In this section, the top show from popular streaming platforms are given through youtube videos
+- Chat
+  - In this section, you can contact me via email to leave feedback on the website
 
 ### Code
 - [Check out the HTML](index.html)
