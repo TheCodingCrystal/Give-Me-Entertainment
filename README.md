@@ -19,7 +19,7 @@ During quarantine, many people have found themselves bored. In order to keep a l
 ### Screenshots
 ![image](https://user-images.githubusercontent.com/50976601/84556383-4d8c0b80-ad1a-11ea-9b6f-a1abf6aacf77.png)
 
-At the topof the web page, you are greeted with the welcome section, introducing the user to the website.
+At the top of the web page, you are greeted with the welcome section, introducing the user to the website.
 
 ![image](https://user-images.githubusercontent.com/50976601/84556408-7dd3aa00-ad1a-11ea-94d8-81a37c200e72.png)
 
@@ -36,7 +36,7 @@ This is what the music section looks like. All of the other sections are similar
 At the bottom, there is a section for if a user would like to contact me.
 
 ### Framework used
-I used Atom, a text editor, to develop my website.\
+I used Atom, a text editor, to develop my website.
 
 Programming languages include:
 - HTML
