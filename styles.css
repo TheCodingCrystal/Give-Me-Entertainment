@@ -34,7 +34,11 @@ a {
 
 /* Welcome Section */
 #welcome-container {
-  background-color: #DEDEDE;
+  background-color: #525252;
+}
+
+#welcome-container p {
+  margin-bottom: 40px;
 }
 
 /* Music Section */
@@ -69,14 +73,14 @@ a {
 
 /* Ridles Section */
 #riddles-container {
-  background-color: #ffe75e;
+  background-color: #ffd31d;
   float: right;
   width: 50%;
   margin-bottom: 5%;
 }
 
 .riddlesJ {
-  color: #ffe75e;
+  color: #ffd31d;
 }
 
 /* Netflix Section */
@@ -233,12 +237,22 @@ li {
 
 /* All Sections */
 .container-fluid {
-  padding: 3% 15% 12%;
+  padding: 3% 15% 5%;
   box-shadow: 10px 0px 20px black;
 }
 
 .section-arrow {
   margin-left: 5%;
+}
+
+.headerIcon {
+  margin-left: 50px;
+  margin-top: 5px;
+  color: #fff;
+}
+
+.N {
+  filter: brightness(1000000%);
 }
 
 .jump {
