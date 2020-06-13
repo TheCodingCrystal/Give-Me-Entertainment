@@ -105,6 +105,12 @@ a {
   background-color: #555;
 }
 
+.ciconD {
+  height: 0px;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
 .other-shows-arrowL {
   margin-left: -10%;
 }
@@ -289,9 +295,7 @@ li {
 
   /* Ridles Section */
   #riddles-container {
-    background-color: #ffe75e;
+    background-color: #ffd31d;
     width: 100%;
   }
-
-  /* Chat Section */
 }
